@@ -1,0 +1,3 @@
+In this project, I made a Tic-Tac-Toe game. In this game, there are two players, one is black and another one is white. This game will end when five consecuting stone will be placed. For two players, I made two different sounds when they placed in the board. Moreover, It shows the cheat key when user will move their mouse to place a stone. 
+
+Finally, when any player won the game, I made a wining sound and this game shows the winning row. 
